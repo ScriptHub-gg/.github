@@ -1,12 +1,10 @@
-## Welcome to ScriptHub 👋
+## Welcome to Scripthub
 
-<!--
+We are a team of developers specializing in FiveM development. 
+Our focus is on creating and sharing various server bases and scripts to enhance the FiveM experience. 
+While some of our work remains in private branches, we also plan to release free resources for the community.
 
-**Here are some ideas to get you started:**
+https://scripthub.gg 
+https://shop.scripthub.gg
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Stay tuned for updates!
