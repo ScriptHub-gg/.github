@@ -4,13 +4,13 @@ We are a team of developers specializing in FiveM development.
 Our focus is on creating and sharing various server bases and scripts to enhance the FiveM experience. 
 While some of our work remains in private branches, we also plan to release free resources for the community.
 
-## Homepage
+# Homepage
 https://scripthub.gg
 
-## Tebex Shop
+# Tebex Shop
 https://shop.scripthub.gg
 
-## Discord
+# Discord
 https://dc.scripthub.gg
 
 
