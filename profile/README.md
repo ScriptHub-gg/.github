@@ -8,7 +8,7 @@ While some of our work remains in private branches, we also plan to release free
 https://scripthub.gg
 
 ## Tebex Shop
-https://shop.scripthub.gg
+[https://shop.scripthub.gg](https://scripthub.tebex.io/)
 
 ## Discord
 https://dc.scripthub.gg
