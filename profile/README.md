@@ -1,6 +1,6 @@
 # Welcome to Scripthub
 
-We are ScriptHub – a team of developers and administrators specializing in professional RedM & FiveM development. 
+We are ScriptHub – a team of developers and administrators specializing in professional FiveM development. 
 Our focus is on creating and providing server bases and scripts that enhance the experience.
 
 ## Tebex Shop
