@@ -7,6 +7,6 @@ Our focus is on creating and providing server bases and scripts that enhance the
 https://scripthub.tebex.io/
 
 ## Discord
-[https://dc.scripthub.gg](https://discord.gg/B7b5c3nbRU)
+[https://dc.script-hub.de](https://dc.script-hub.de)
 
 Stay tuned for updates!
